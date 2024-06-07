@@ -1,0 +1,21 @@
+{
+  "name": "mime-integrity",
+  "version": "1.0.0",
+  "description": "A utility package that checks if the mime type of your files have been modified for malicious purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mime-type",
+    "mime",
+    "files",
+    "multer",
+    "file-upload"
+  ],
+  "author": "David Ekete",
+  "license": "ISC",
+  "dependencies": {
+    "file-type": "^19.0.0"
+  }
+}
